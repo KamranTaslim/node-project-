@@ -69,6 +69,7 @@ export default class ProductController {
 
   filterProducts(req, res) {
     const minPrice = req.query.minPrice;
+    //add comment
     const maxPrice = req.query.maxPrice;
     const category = req.query.category;
     const result = ProductModel.filter(

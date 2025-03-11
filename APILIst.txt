@@ -36,8 +36,8 @@ Git hub pr code upload krna h
  1. easy (env and node_module) X 
     1.Render(Login or signup with Git hub account and click in new)
        - select repo
- 2.code 
+ 2.code (1 local jab tak commit na ho 2 commit ke bad wo stage pr chala jata h git hub pr ni)
   - done click on readme
   -make file name .gitignore
   -git add .
-  
+
